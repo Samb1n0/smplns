@@ -1,0 +1,53 @@
+/*Navbar background colour change */
+
+nav {
+    border-radius: 0 !important;
+    background-color: #333 !important; 
+}
+
+
+/* Navbar brand formatting */
+
+.navbar-brand   {
+    font-family: 'Lobster', cursive;
+    color: white !important;
+}
+
+
+/* Hover changes */
+
+#myNavbar ul li a:hover    {
+    background-color: #4F4F4F;
+}
+
+.dropdown-menu li a:hover {
+    color: white;
+    background-color: #4F4F4F;
+}
+
+
+/* Glyphicon color change one active */
+
+.active .glyphicon-home {
+    color:red;   
+}
+
+.active .glyphicon-calendar {
+    color:red;   
+}
+
+.active .glyphicon-list-alt {
+    color:red;   
+}
+
+.active .glyphicon-stats {
+    color:red;   
+}
+
+.active .glyphicon-option-vertical {
+    color:red;   
+}
+
+.active .glyphicon-envelope {
+    color:red;   
+}
