@@ -9,14 +9,16 @@ nav {
 /* Navbar brand formatting */
 
 .navbar-brand   {
-    font-family: 'Lobster', cursive;
+    font-family: 'Oxygen', sans-serif;
     color: white !important;
+    padding-left: 10px; 
+    padding-right: 15px;
 }
 
 
 /* Hover changes */
 
-#myNavbar ul li a:hover    {
+#navbar ul li a:hover    {
     background-color: #4F4F4F;
 }
 
