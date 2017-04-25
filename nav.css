@@ -2,7 +2,11 @@
 
 nav {
     border-radius: 0 !important;
-    background-color: #333 !important; 
+    background-color: #333 !important;
+}
+
+.navbar  {
+    margin-bottom: 0;
 }
 
 
@@ -75,4 +79,8 @@ nav {
 
 .mainText    {
     text-align: center;
+}
+
+.jumbotron  {
+    margin-bottom: 0;
 }
