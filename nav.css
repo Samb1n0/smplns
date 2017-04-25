@@ -53,3 +53,9 @@ nav {
 .active .glyphicon-envelope {
     color:red;   
 }
+
+
+.sideImage  {
+    max-width:100%;
+    max-height:100%;
+}
