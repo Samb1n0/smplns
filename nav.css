@@ -55,6 +55,23 @@ nav {
 }
 
 
+/* Social Media Icons */
+
+.facebookIcon  {
+    padding-right: 5px;
+}
+
+.socialMedia   { 
+    color: inherit; 
+} 
+
+.socialMedia:hover   { 
+    color: #4F4F4F; 
+} 
+
+
+/* Side Images */
+
 .sideImage  {
     max-width:100%;
     max-height:100%;
