@@ -15,7 +15,7 @@ nav {
 .navbar-brand   {
     font-family: 'Oxygen', sans-serif;
     color: white !important;
-    padding-left: 10px; 
+    padding-left: 10px;
     padding-right: 15px;
 }
 
@@ -35,39 +35,39 @@ nav {
 /* Glyphicon color change one active */
 
 .active .glyphicon-home {
-    color:red;   
+    color:red;
 }
 
 .active .glyphicon-calendar {
-    color:red;   
+    color:red;
 }
 
 .active .glyphicon-list-alt {
-    color:red;   
+    color:red;
 }
 
 .active .glyphicon-stats {
-    color:red;   
+    color:red;
 }
 
 .active .glyphicon-option-vertical {
-    color:red;   
+    color:red;
 }
 
 .active .glyphicon-envelope {
-    color:red;   
+    color:red;
 }
 
 
 /* Social Media Icons */
 
-.socialMedia   { 
+.socialMedia   {
     color: inherit;
-} 
+}
 
-.socialMedia:hover   { 
-    color: #4F4F4F; 
-} 
+.socialMedia:hover   {
+    color: #4F4F4F;
+}
 
 
 /* Side Images */
