@@ -1,3 +1,7 @@
+.container-fluid    {
+    width: 100%;
+}
+
 /*Navbar background colour change */
 
 nav {
@@ -72,15 +76,31 @@ nav {
 
 /* Side Images */
 
-.sideImage  {
-    max-width:100%;
-    max-height:100%;
+.row    {
 }
 
-.mainText    {
+.bottomImage  {
+    max-width:100%;
+    vertical-align: middle;
+}
+
+.centerText    {
     text-align: center;
 }
 
 .jumbotron  {
     margin-bottom: 0;
+    border-radius: 0 !important;
+}
+
+#vcenterBpow {
+  position: relative;
+  top: 50%;
+  transform: translateY(30%);
+}
+
+#vcenterEpa {
+  position: relative;
+  top: 50%;
+  transform: translateY(45%);
 }
