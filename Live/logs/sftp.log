@@ -1,0 +1,694 @@
+Oct 31 16:35:51 10.71.50.39 u87425281 Connection from 10.71.50.39 port 55228 on 212.227.24.43 port 22
+Oct 31 16:35:52 10.71.50.39 u87425281 Accepted password for u87425281 from 10.71.50.39 port 55228 ssh2
+Oct 31 16:35:52 - u87425281 session opened for local user u87425281 from [10.71.50.39]
+Oct 31 16:39:27 10.71.50.39 u87425281 Connection from 10.71.50.39 port 64518 on 212.227.24.43 port 22
+Oct 31 16:39:27 10.71.50.39 u87425281 Accepted password for u87425281 from 10.71.50.39 port 64518 ssh2
+Oct 31 16:39:27 10.71.50.39 u87425281 Connection from 10.71.50.39 port 64516 on 212.227.24.43 port 22
+Oct 31 16:39:27 10.71.50.39 u87425281 Accepted password for u87425281 from 10.71.50.39 port 64516 ssh2
+Oct 31 16:39:27 - u87425281 session opened for local user u87425281 from [10.71.50.39]
+Oct 31 16:39:27 - u87425281 session opened for local user u87425281 from [10.71.50.39]
+Oct 31 16:39:27 - u87425281 sent status No such file
+Oct 31 16:39:27 - u87425281 sent status No such file
+Oct 31 16:39:28 - u87425281 sent status No such file
+Oct 31 16:39:28 - u87425281 mkdir name "/results" mode 0777
+Oct 31 16:39:28 - u87425281 [10.71.50.39|mkdir|0|0|511|0|0|2f726573756c7473|]
+Oct 31 16:39:28 - u87425281 sent status No such file
+Oct 31 16:39:28 - u87425281 sent status No such file
+Oct 31 16:39:28 - u87425281 open "/results/Bitesize 5 Results.pdf" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 31 16:39:28 - u87425281 open "/results/All Mids Masters 2017 Results.pdf" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 31 16:39:28 - u87425281 close "/results/Bitesize 5 Results.pdf" bytes read 0 written 80701
+Oct 31 16:39:28 - u87425281 [10.71.50.39|put|0|80701|0|0|0|2f726573756c74732f4269746573697a65203520526573756c74732e706466|]
+Oct 31 16:39:29 - u87425281 close "/results/All Mids Masters 2017 Results.pdf" bytes read 0 written 381969
+Oct 31 16:39:29 - u87425281 [10.71.50.39|put|1|381969|0|0|0|2f726573756c74732f416c6c204d696473204d617374657273203230313720526573756c74732e706466|]
+Oct 31 16:39:32 - u87425281 open "/results.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 31 16:39:32 - u87425281 close "/results.html" bytes read 0 written 10608
+Oct 31 16:39:32 - u87425281 [10.71.50.39|put|0|10608|0|0|0|2f726573756c74732e68746d6c|]
+Oct 31 16:40:18 - u87425281 open "/results.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 31 16:40:18 - u87425281 close "/results.html" bytes read 0 written 10621
+Oct 31 16:40:18 - u87425281 [10.71.50.39|put|0|10621|0|0|0|2f726573756c74732e68746d6c|]
+Oct 31 16:40:28 - u87425281 session closed for local user u87425281 from [10.71.50.39]
+Oct 31 16:40:28 10.71.50.39 u87425281 Connection closed by 10.71.50.39
+Oct 31 16:41:18 - u87425281 session closed for local user u87425281 from [10.71.50.39]
+Oct 31 16:41:18 10.71.50.39 u87425281 Connection closed by 10.71.50.39
+Oct 31 22:33:29 10.71.50.31 u87425281 Connection from 10.71.50.31 port 33402 on 212.227.24.43 port 22
+Oct 31 22:33:30 10.71.50.31 u87425281 Accepted password for u87425281 from 10.71.50.31 port 33402 ssh2
+Oct 31 22:33:30 - u87425281 session opened for local user u87425281 from [10.71.50.31]
+Oct 31 22:33:41 10.71.50.31 u87425281 Connection from 10.71.50.31 port 45142 on 212.227.24.43 port 22
+Oct 31 22:33:42 10.71.50.31 u87425281 Accepted password for u87425281 from 10.71.50.31 port 45142 ssh2
+Oct 31 22:33:41 10.71.50.31 u87425281 Connection from 10.71.50.31 port 45160 on 212.227.24.43 port 22
+Oct 31 22:33:42 10.71.50.31 u87425281 Accepted password for u87425281 from 10.71.50.31 port 45160 ssh2
+Oct 31 22:33:42 - u87425281 session opened for local user u87425281 from [10.71.50.31]
+Oct 31 22:33:42 - u87425281 session opened for local user u87425281 from [10.71.50.31]
+Oct 31 22:33:42 - u87425281 open "/results/All Mids Masters 2017 Results.pdf" flags READ mode 0666
+Oct 31 22:33:42 - u87425281 open "/results/Bitesize 5 Results.pdf" flags READ mode 0666
+Oct 31 22:33:43 - u87425281 close "/results/Bitesize 5 Results.pdf" bytes read 80701 written 0
+Oct 31 22:33:43 - u87425281 [10.71.50.31|get|1|80701|0|0|0|2f726573756c74732f4269746573697a65203520526573756c74732e706466|]
+Oct 31 22:33:43 - u87425281 close "/results/All Mids Masters 2017 Results.pdf" bytes read 381969 written 0
+Oct 31 22:33:43 - u87425281 [10.71.50.31|get|1|381969|0|0|0|2f726573756c74732f416c6c204d696473204d617374657273203230313720526573756c74732e706466|]
+Oct 31 22:33:49 - u87425281 open "/results.html" flags READ mode 0666
+Oct 31 22:33:49 - u87425281 close "/results.html" bytes read 10621 written 0
+Oct 31 22:33:49 - u87425281 [10.71.50.31|get|0|10621|0|0|0|2f726573756c74732e68746d6c|]
+Oct 31 22:34:31 - u87425281 open "/results/Bitesize 5 Results.pdf" flags READ mode 0666
+Oct 31 22:34:31 - u87425281 close "/results/Bitesize 5 Results.pdf" bytes read 80701 written 0
+Oct 31 22:34:31 - u87425281 [10.71.50.31|get|0|80701|0|0|0|2f726573756c74732f4269746573697a65203520526573756c74732e706466|]
+Oct 31 22:34:31 - u87425281 open "/results/All Mids Masters 2017 Results.pdf" flags READ mode 0666
+Oct 31 22:34:32 - u87425281 close "/results/All Mids Masters 2017 Results.pdf" bytes read 381969 written 0
+Oct 31 22:34:32 - u87425281 [10.71.50.31|get|1|381969|0|0|0|2f726573756c74732f416c6c204d696473204d617374657273203230313720526573756c74732e706466|]
+Oct 31 22:35:31 - u87425281 session closed for local user u87425281 from [10.71.50.31]
+Oct 31 22:35:32 10.71.50.31 u87425281 Connection closed by 10.71.50.31
+Oct 31 22:35:32 - u87425281 session closed for local user u87425281 from [10.71.50.31]
+Oct 31 22:35:32 10.71.50.31 u87425281 Connection closed by 10.71.50.31
+Oct 31 22:37:06 10.71.50.31 u87425281 Connection from 10.71.50.31 port 16278 on 212.227.24.43 port 22
+Oct 31 22:37:06 10.71.50.31 u87425281 Accepted password for u87425281 from 10.71.50.31 port 16278 ssh2
+Oct 31 22:37:06 10.71.50.31 u87425281 Connection from 10.71.50.31 port 16284 on 212.227.24.43 port 22
+Oct 31 22:37:06 10.71.50.31 u87425281 Accepted password for u87425281 from 10.71.50.31 port 16284 ssh2
+Oct 31 22:37:06 - u87425281 session opened for local user u87425281 from [10.71.50.31]
+Oct 31 22:37:06 - u87425281 session opened for local user u87425281 from [10.71.50.31]
+Oct 31 22:37:07 - u87425281 open "/index.html" flags READ mode 0666
+Oct 31 22:37:07 - u87425281 open "/events.html" flags READ mode 0666
+Oct 31 22:37:07 - u87425281 close "/index.html" bytes read 9859 written 0
+Oct 31 22:37:07 - u87425281 close "/events.html" bytes read 11918 written 0
+Oct 31 22:37:07 - u87425281 [10.71.50.31|get|0|9859|0|0|0|2f696e6465782e68746d6c|]
+Oct 31 22:37:07 - u87425281 [10.71.50.31|get|0|11918|0|0|0|2f6576656e74732e68746d6c|]
+Oct 31 22:37:07 - u87425281 open "/main.css" flags READ mode 0666
+Oct 31 22:37:07 - u87425281 open "/records.html" flags READ mode 0666
+Oct 31 22:37:07 - u87425281 close "/main.css" bytes read 2450 written 0
+Oct 31 22:37:07 - u87425281 [10.71.50.31|get|0|2450|0|0|0|2f6d61696e2e637373|]
+Oct 31 22:37:07 - u87425281 close "/records.html" bytes read 7474 written 0
+Oct 31 22:37:07 - u87425281 [10.71.50.31|get|0|7474|0|0|0|2f7265636f7264732e68746d6c|]
+Oct 31 22:37:07 - u87425281 open "/results.html" flags READ mode 0666
+Oct 31 22:37:07 - u87425281 close "/results.html" bytes read 10621 written 0
+Oct 31 22:37:07 - u87425281 open "/entry/Bitesize 16th December Entry Form.docx" flags READ mode 0666
+Oct 31 22:37:07 - u87425281 [10.71.50.31|get|0|10621|0|0|0|2f726573756c74732e68746d6c|]
+Oct 31 22:37:07 - u87425281 close "/entry/Bitesize 16th December Entry Form.docx" bytes read 40683 written 0
+Oct 31 22:37:07 - u87425281 [10.71.50.31|get|0|40683|0|0|0|2f656e7472792f4269746573697a65203136746820446563656d62657220456e74727920466f726d2e646f6378|]
+Oct 31 22:37:07 - u87425281 open "/entry/Bitesize 3rd December Entry Form.docx" flags READ mode 0666
+Oct 31 22:37:07 - u87425281 open "/entry/Bitesize October Entry Form.docx" flags READ mode 0666
+Oct 31 22:37:07 - u87425281 close "/entry/Bitesize 3rd December Entry Form.docx" bytes read 40644 written 0
+Oct 31 22:37:07 - u87425281 [10.71.50.31|get|0|40644|0|0|0|2f656e7472792f4269746573697a652033726420446563656d62657220456e74727920466f726d2e646f6378|]
+Oct 31 22:37:08 - u87425281 close "/entry/Bitesize October Entry Form.docx" bytes read 40664 written 0
+Oct 31 22:37:08 - u87425281 [10.71.50.31|get|1|40664|0|0|0|2f656e7472792f4269746573697a65204f63746f62657220456e74727920466f726d2e646f6378|]
+Oct 31 22:37:08 - u87425281 open "/font-awesome-4.7.0/HELP-US-OUT.txt" flags READ mode 0666
+Oct 31 22:37:08 - u87425281 open "/font-awesome-4.7.0/css/font-awesome.css" flags READ mode 0666
+Oct 31 22:37:08 - u87425281 close "/font-awesome-4.7.0/HELP-US-OUT.txt" bytes read 330 written 0
+Oct 31 22:37:08 - u87425281 [10.71.50.31|get|0|330|0|0|0|2f666f6e742d617765736f6d652d342e372e302f48454c502d55532d4f55542e747874|]
+Oct 31 22:37:08 - u87425281 open "/font-awesome-4.7.0/css/font-awesome.min.css" flags READ mode 0666
+Oct 31 22:37:08 - u87425281 close "/font-awesome-4.7.0/css/font-awesome.css" bytes read 39751 written 0
+Oct 31 22:37:08 - u87425281 [10.71.50.31|get|0|39751|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6373732f666f6e742d617765736f6d652e637373|]
+Oct 31 22:37:08 - u87425281 close "/font-awesome-4.7.0/css/font-awesome.min.css" bytes read 31004 written 0
+Oct 31 22:37:08 - u87425281 [10.71.50.31|get|0|31004|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Oct 31 22:37:08 - u87425281 open "/font-awesome-4.7.0/fonts/FontAwesome.otf" flags READ mode 0666
+Oct 31 22:37:08 - u87425281 open "/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" flags READ mode 0666
+Oct 31 22:37:08 - u87425281 close "/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" bytes read 77160 written 0
+Oct 31 22:37:08 - u87425281 [10.71.50.31|get|0|77160|0|0|0|2f666f6e742d617765736f6d652d342e372e302f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f666632|]
+Oct 31 22:37:08 - u87425281 close "/font-awesome-4.7.0/fonts/FontAwesome.otf" bytes read 134808 written 0
+Oct 31 22:37:08 - u87425281 [10.71.50.31|get|0|134808|0|0|0|2f666f6e742d617765736f6d652d342e372e302f666f6e74732f466f6e74417765736f6d652e6f7466|]
+Oct 31 22:37:09 - u87425281 open "/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" flags READ mode 0666
+Oct 31 22:37:09 - u87425281 open "/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" flags READ mode 0666
+Oct 31 22:37:09 - u87425281 close "/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" bytes read 98024 written 0
+Oct 31 22:37:09 - u87425281 [10.71.50.31|get|0|98024|0|0|0|2f666f6e742d617765736f6d652d342e372e302f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+Oct 31 22:37:09 - u87425281 close "/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" bytes read 165548 written 0
+Oct 31 22:37:09 - u87425281 [10.71.50.31|get|0|165548|0|0|0|2f666f6e742d617765736f6d652d342e372e302f666f6e74732f666f6e74617765736f6d652d776562666f6e742e747466|]
+Oct 31 22:37:09 - u87425281 open "/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" flags READ mode 0666
+Oct 31 22:37:09 - u87425281 open "/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" flags READ mode 0666
+Oct 31 22:37:09 - u87425281 close "/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" bytes read 447050 written 0
+Oct 31 22:37:09 - u87425281 [10.71.50.31|get|0|447050|0|0|0|2f666f6e742d617765736f6d652d342e372e302f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667|]
+Oct 31 22:37:09 - u87425281 close "/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" bytes read 165742 written 0
+Oct 31 22:37:09 - u87425281 [10.71.50.31|get|0|165742|0|0|0|2f666f6e742d617765736f6d652d342e372e302f666f6e74732f666f6e74617765736f6d652d776562666f6e742e656f74|]
+Oct 31 22:37:09 - u87425281 open "/font-awesome-4.7.0/less/variables.less" flags READ mode 0666
+Oct 31 22:37:09 - u87425281 open "/font-awesome-4.7.0/less/stacked.less" flags READ mode 0666
+Oct 31 22:37:09 - u87425281 sent status No such file
+Oct 31 22:37:09 - u87425281 close "/font-awesome-4.7.0/less/variables.less" bytes read 23363 written 0
+Oct 31 22:37:09 - u87425281 [10.71.50.31|get|0|23363|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f7661726961626c65732e6c657373|]
+Oct 31 22:37:09 - u87425281 close "/font-awesome-4.7.0/less/stacked.less" bytes read 496 written 0
+Oct 31 22:37:09 - u87425281 [10.71.50.31|get|0|496|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f737461636b65642e6c657373|]
+Oct 31 22:37:09 - u87425281 open "/font-awesome-4.7.0/less/screen-reader.less" flags READ mode 0666
+Oct 31 22:37:09 - u87425281 open "/font-awesome-4.7.0/less/rotated-flipped.less" flags READ mode 0666
+Oct 31 22:37:10 - u87425281 close "/font-awesome-4.7.0/less/screen-reader.less" bytes read 123 written 0
+Oct 31 22:37:10 - u87425281 [10.71.50.31|get|1|123|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f73637265656e2d7265616465722e6c657373|]
+Oct 31 22:37:10 - u87425281 close "/font-awesome-4.7.0/less/rotated-flipped.less" bytes read 642 written 0
+Oct 31 22:37:10 - u87425281 [10.71.50.31|get|1|642|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f726f74617465642d666c69707065642e6c657373|]
+Oct 31 22:37:10 - u87425281 open "/font-awesome-4.7.0/less/path.less" flags READ mode 0666
+Oct 31 22:37:10 - u87425281 open "/font-awesome-4.7.0/less/mixins.less" flags READ mode 0666
+Oct 31 22:37:10 - u87425281 close "/font-awesome-4.7.0/less/mixins.less" bytes read 1663 written 0
+Oct 31 22:37:10 - u87425281 close "/font-awesome-4.7.0/less/path.less" bytes read 786 written 0
+Oct 31 22:37:10 - u87425281 [10.71.50.31|get|0|1663|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f6d6978696e732e6c657373|]
+Oct 31 22:37:10 - u87425281 [10.71.50.31|get|0|786|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f706174682e6c657373|]
+Oct 31 22:37:10 - u87425281 open "/font-awesome-4.7.0/less/list.less" flags READ mode 0666
+Oct 31 22:37:10 - u87425281 open "/font-awesome-4.7.0/less/larger.less" flags READ mode 0666
+Oct 31 22:37:10 - u87425281 close "/font-awesome-4.7.0/less/list.less" bytes read 396 written 0
+Oct 31 22:37:10 - u87425281 [10.71.50.31|get|0|396|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f6c6973742e6c657373|]
+Oct 31 22:37:10 - u87425281 close "/font-awesome-4.7.0/less/larger.less" bytes read 383 written 0
+Oct 31 22:37:10 - u87425281 [10.71.50.31|get|0|383|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f6c61726765722e6c657373|]
+Oct 31 22:37:10 - u87425281 open "/font-awesome-4.7.0/less/icons.less" flags READ mode 0666
+Oct 31 22:37:10 - u87425281 open "/font-awesome-4.7.0/less/font-awesome.less" flags READ mode 0666
+Oct 31 22:37:10 - u87425281 close "/font-awesome-4.7.0/less/icons.less" bytes read 50501 written 0
+Oct 31 22:37:10 - u87425281 close "/font-awesome-4.7.0/less/font-awesome.less" bytes read 513 written 0
+Oct 31 22:37:10 - u87425281 [10.71.50.31|get|0|50501|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f69636f6e732e6c657373|]
+Oct 31 22:37:10 - u87425281 [10.71.50.31|get|0|513|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f666f6e742d617765736f6d652e6c657373|]
+Oct 31 22:37:10 - u87425281 open "/font-awesome-4.7.0/less/fixed-width.less" flags READ mode 0666
+Oct 31 22:37:10 - u87425281 open "/font-awesome-4.7.0/less/core.less" flags READ mode 0666
+Oct 31 22:37:10 - u87425281 close "/font-awesome-4.7.0/less/core.less" bytes read 464 written 0
+Oct 31 22:37:10 - u87425281 [10.71.50.31|get|0|464|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f636f72652e6c657373|]
+Oct 31 22:37:10 - u87425281 close "/font-awesome-4.7.0/less/fixed-width.less" bytes read 125 written 0
+Oct 31 22:37:10 - u87425281 [10.71.50.31|get|0|125|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f66697865642d77696474682e6c657373|]
+Oct 31 22:37:11 - u87425281 open "/font-awesome-4.7.0/less/animated.less" flags READ mode 0666
+Oct 31 22:37:11 - u87425281 open "/font-awesome-4.7.0/less/bordered-pulled.less" flags READ mode 0666
+Oct 31 22:37:11 - u87425281 close "/font-awesome-4.7.0/less/animated.less" bytes read 747 written 0
+Oct 31 22:37:11 - u87425281 [10.71.50.31|get|0|747|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f616e696d617465642e6c657373|]
+Oct 31 22:37:11 - u87425281 close "/font-awesome-4.7.0/less/bordered-pulled.less" bytes read 610 written 0
+Oct 31 22:37:11 - u87425281 [10.71.50.31|get|0|610|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f626f7264657265642d70756c6c65642e6c657373|]
+Oct 31 22:37:11 - u87425281 open "/font-awesome-4.7.0/scss/_variables.scss" flags READ mode 0666
+Oct 31 22:37:11 - u87425281 open "/font-awesome-4.7.0/scss/_stacked.scss" flags READ mode 0666
+Oct 31 22:37:11 - u87425281 close "/font-awesome-4.7.0/scss/_stacked.scss" bytes read 502 written 0
+Oct 31 22:37:11 - u87425281 [10.71.50.31|get|0|502|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f737461636b65642e73637373|]
+Oct 31 22:37:11 - u87425281 close "/font-awesome-4.7.0/scss/_variables.scss" bytes read 23444 written 0
+Oct 31 22:37:11 - u87425281 [10.71.50.31|get|0|23444|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f7661726961626c65732e73637373|]
+Oct 31 22:37:11 - u87425281 open "/font-awesome-4.7.0/scss/_screen-reader.scss" flags READ mode 0666
+Oct 31 22:37:11 - u87425281 open "/font-awesome-4.7.0/scss/_rotated-flipped.scss" flags READ mode 0666
+Oct 31 22:37:11 - u87425281 close "/font-awesome-4.7.0/scss/_screen-reader.scss" bytes read 139 written 0
+Oct 31 22:37:11 - u87425281 [10.71.50.31|get|0|139|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f73637265656e2d7265616465722e73637373|]
+Oct 31 22:37:11 - u87425281 close "/font-awesome-4.7.0/scss/_rotated-flipped.scss" bytes read 692 written 0
+Oct 31 22:37:11 - u87425281 [10.71.50.31|get|0|692|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f726f74617465642d666c69707065642e73637373|]
+Oct 31 22:37:11 - u87425281 open "/font-awesome-4.7.0/scss/_path.scss" flags READ mode 0666
+Oct 31 22:37:11 - u87425281 open "/font-awesome-4.7.0/scss/_mixins.scss" flags READ mode 0666
+Oct 31 22:37:11 - u87425281 close "/font-awesome-4.7.0/scss/_mixins.scss" bytes read 1697 written 0
+Oct 31 22:37:11 - u87425281 [10.71.50.31|get|0|1697|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f6d6978696e732e73637373|]
+Oct 31 22:37:11 - u87425281 close "/font-awesome-4.7.0/scss/_path.scss" bytes read 798 written 0
+Oct 31 22:37:11 - u87425281 [10.71.50.31|get|0|798|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f706174682e73637373|]
+Oct 31 22:37:12 - u87425281 open "/font-awesome-4.7.0/scss/_list.scss" flags READ mode 0666
+Oct 31 22:37:12 - u87425281 open "/font-awesome-4.7.0/scss/_larger.scss" flags READ mode 0666
+Oct 31 22:37:12 - u87425281 close "/font-awesome-4.7.0/scss/_list.scss" bytes read 397 written 0
+Oct 31 22:37:12 - u87425281 [10.71.50.31|get|0|397|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f6c6973742e73637373|]
+Oct 31 22:37:12 - u87425281 close "/font-awesome-4.7.0/scss/_larger.scss" bytes read 388 written 0
+Oct 31 22:37:12 - u87425281 [10.71.50.31|get|0|388|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f6c61726765722e73637373|]
+Oct 31 22:37:12 - u87425281 open "/font-awesome-4.7.0/scss/_icons.scss" flags READ mode 0666
+Oct 31 22:37:12 - u87425281 open "/font-awesome-4.7.0/scss/_fixed-width.scss" flags READ mode 0666
+Oct 31 22:37:12 - u87425281 close "/font-awesome-4.7.0/scss/_fixed-width.scss" bytes read 126 written 0
+Oct 31 22:37:12 - u87425281 close "/font-awesome-4.7.0/scss/_icons.scss" bytes read 51287 written 0
+Oct 31 22:37:12 - u87425281 [10.71.50.31|get|0|126|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f66697865642d77696474682e73637373|]
+Oct 31 22:37:12 - u87425281 [10.71.50.31|get|0|51287|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f69636f6e732e73637373|]
+Oct 31 22:37:12 - u87425281 open "/font-awesome-4.7.0/scss/_core.scss" flags READ mode 0666
+Oct 31 22:37:12 - u87425281 open "/font-awesome-4.7.0/scss/_bordered-pulled.scss" flags READ mode 0666
+Oct 31 22:37:12 - u87425281 close "/font-awesome-4.7.0/scss/_core.scss" bytes read 471 written 0
+Oct 31 22:37:12 - u87425281 [10.71.50.31|get|0|471|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f636f72652e73637373|]
+Oct 31 22:37:12 - u87425281 close "/font-awesome-4.7.0/scss/_bordered-pulled.scss" bytes read 617 written 0
+Oct 31 22:37:12 - u87425281 [10.71.50.31|get|0|617|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f626f7264657265642d70756c6c65642e73637373|]
+Oct 31 22:37:12 - u87425281 open "/font-awesome-4.7.0/scss/_animated.scss" flags READ mode 0666
+Oct 31 22:37:12 - u87425281 open "/font-awesome-4.7.0/scss/font-awesome.scss" flags READ mode 0666
+Oct 31 22:37:12 - u87425281 close "/font-awesome-4.7.0/scss/font-awesome.scss" bytes read 448 written 0
+Oct 31 22:37:12 - u87425281 [10.71.50.31|get|0|448|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f666f6e742d617765736f6d652e73637373|]
+Oct 31 22:37:12 - u87425281 close "/font-awesome-4.7.0/scss/_animated.scss" bytes read 749 written 0
+Oct 31 22:37:12 - u87425281 [10.71.50.31|get|0|749|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f616e696d617465642e73637373|]
+Oct 31 22:37:13 - u87425281 open "/images/smpl_logo_right3.jpg" flags READ mode 0666
+Oct 31 22:37:13 - u87425281 open "/images/smpl_logo_right2.jpg" flags READ mode 0666
+Oct 31 22:37:13 - u87425281 close "/images/smpl_logo_right3.jpg" bytes read 157644 written 0
+Oct 31 22:37:13 - u87425281 [10.71.50.31|get|0|157644|0|0|0|2f696d616765732f736d706c5f6c6f676f5f7269676874332e6a7067|]
+Oct 31 22:37:13 - u87425281 close "/images/smpl_logo_right2.jpg" bytes read 152322 written 0
+Oct 31 22:37:13 - u87425281 [10.71.50.31|get|0|152322|0|0|0|2f696d616765732f736d706c5f6c6f676f5f7269676874322e6a7067|]
+Oct 31 22:37:13 - u87425281 open "/images/smpl_logo_right.jpg" flags READ mode 0666
+Oct 31 22:37:13 - u87425281 open "/images/smpl_logo_left3.jpg" flags READ mode 0666
+Oct 31 22:37:13 - u87425281 close "/images/smpl_logo_right.jpg" bytes read 140060 written 0
+Oct 31 22:37:13 - u87425281 [10.71.50.31|get|0|140060|0|0|0|2f696d616765732f736d706c5f6c6f676f5f72696768742e6a7067|]
+Oct 31 22:37:13 - u87425281 close "/images/smpl_logo_left3.jpg" bytes read 141909 written 0
+Oct 31 22:37:13 - u87425281 [10.71.50.31|get|0|141909|0|0|0|2f696d616765732f736d706c5f6c6f676f5f6c656674332e6a7067|]
+Oct 31 22:37:13 - u87425281 open "/images/smpl_logo_left2.jpg" flags READ mode 0666
+Oct 31 22:37:13 - u87425281 open "/images/smpl_logo_left.jpg" flags READ mode 0666
+Oct 31 22:37:13 - u87425281 close "/images/smpl_logo_left2.jpg" bytes read 153621 written 0
+Oct 31 22:37:13 - u87425281 [10.71.50.31|get|0|153621|0|0|0|2f696d616765732f736d706c5f6c6f676f5f6c656674322e6a7067|]
+Oct 31 22:37:13 - u87425281 open "/images/smpl_circle_333.png" flags READ mode 0666
+Oct 31 22:37:13 - u87425281 close "/images/smpl_logo_left.jpg" bytes read 288890 written 0
+Oct 31 22:37:13 - u87425281 [10.71.50.31|get|0|288890|0|0|0|2f696d616765732f736d706c5f6c6f676f5f6c6566742e6a7067|]
+Oct 31 22:37:13 - u87425281 close "/images/smpl_circle_333.png" bytes read 74758 written 0
+Oct 31 22:37:13 - u87425281 [10.71.50.31|get|0|74758|0|0|0|2f696d616765732f736d706c5f636972636c655f3333332e706e67|]
+Oct 31 22:37:13 - u87425281 open "/images/smpl_circle.png" flags READ mode 0666
+Oct 31 22:37:13 - u87425281 open "/images/smpa_right.png" flags READ mode 0666
+Oct 31 22:37:14 - u87425281 close "/images/smpl_circle.png" bytes read 76649 written 0
+Oct 31 22:37:14 - u87425281 [10.71.50.31|get|1|76649|0|0|0|2f696d616765732f736d706c5f636972636c652e706e67|]
+Oct 31 22:37:14 - u87425281 close "/images/smpa_right.png" bytes read 151265 written 0
+Oct 31 22:37:14 - u87425281 [10.71.50.31|get|1|151265|0|0|0|2f696d616765732f736d70615f72696768742e706e67|]
+Oct 31 22:37:14 - u87425281 open "/images/smpa_left.png" flags READ mode 0666
+Oct 31 22:37:14 - u87425281 open "/images/newlogo.psd" flags READ mode 0666
+Oct 31 22:37:14 - u87425281 close "/images/smpa_left.png" bytes read 165725 written 0
+Oct 31 22:37:14 - u87425281 [10.71.50.31|get|0|165725|0|0|0|2f696d616765732f736d70615f6c6566742e706e67|]
+Oct 31 22:37:14 - u87425281 open "/images/newcirlcelogo_2_grey_darker.png" flags READ mode 0666
+Oct 31 22:37:14 - u87425281 close "/images/newlogo.psd" bytes read 1178287 written 0
+Oct 31 22:37:14 - u87425281 [10.71.50.31|get|0|1178287|0|0|0|2f696d616765732f6e65776c6f676f2e707364|]
+Oct 31 22:37:14 - u87425281 close "/images/newcirlcelogo_2_grey_darker.png" bytes read 74634 written 0
+Oct 31 22:37:14 - u87425281 [10.71.50.31|get|0|74634|0|0|0|2f696d616765732f6e65776369726c63656c6f676f5f325f677265795f6461726b65722e706e67|]
+Oct 31 22:37:14 - u87425281 open "/images/newcirlcelogo_2_grey.psd" flags READ mode 0666
+Oct 31 22:37:14 - u87425281 open "/images/newcirlcelogo_2_grey.png" flags READ mode 0666
+Oct 31 22:37:14 - u87425281 close "/images/newcirlcelogo_2_grey.png" bytes read 75862 written 0
+Oct 31 22:37:14 - u87425281 [10.71.50.31|get|0|75862|0|0|0|2f696d616765732f6e65776369726c63656c6f676f5f325f677265792e706e67|]
+Oct 31 22:37:14 - u87425281 close "/images/newcirlcelogo_2_grey.psd" bytes read 1197630 written 0
+Oct 31 22:37:14 - u87425281 [10.71.50.31|get|0|1197630|0|0|0|2f696d616765732f6e65776369726c63656c6f676f5f325f677265792e707364|]
+Oct 31 22:37:14 - u87425281 open "/images/newcirlcelogo_2.psd" flags READ mode 0666
+Oct 31 22:37:15 - u87425281 open "/images/newcirlcelogo_2.png" flags READ mode 0666
+Oct 31 22:37:15 - u87425281 close "/images/newcirlcelogo_2.png" bytes read 71036 written 0
+Oct 31 22:37:15 - u87425281 [10.71.50.31|get|0|71036|0|0|0|2f696d616765732f6e65776369726c63656c6f676f5f322e706e67|]
+Oct 31 22:37:15 - u87425281 close "/images/newcirlcelogo_2.psd" bytes read 1201879 written 0
+Oct 31 22:37:15 - u87425281 [10.71.50.31|get|1|1201879|0|0|0|2f696d616765732f6e65776369726c63656c6f676f5f322e707364|]
+Oct 31 22:37:15 - u87425281 open "/images/newcirlcelogo.psd" flags READ mode 0666
+Oct 31 22:37:15 - u87425281 open "/images/logo_only.psd" flags READ mode 0666
+Oct 31 22:37:15 - u87425281 close "/images/newcirlcelogo.psd" bytes read 1352525 written 0
+Oct 31 22:37:15 - u87425281 [10.71.50.31|get|0|1352525|0|0|0|2f696d616765732f6e65776369726c63656c6f676f2e707364|]
+Oct 31 22:37:15 - u87425281 open "/images/logo_only.png" flags READ mode 0666
+Oct 31 22:37:15 - u87425281 close "/images/logo_only.psd" bytes read 247536 written 0
+Oct 31 22:37:15 - u87425281 [10.71.50.31|get|0|247536|0|0|0|2f696d616765732f6c6f676f5f6f6e6c792e707364|]
+Oct 31 22:37:16 - u87425281 close "/images/logo_only.png" bytes read 41334 written 0
+Oct 31 22:37:16 - u87425281 [10.71.50.31|get|1|41334|0|0|0|2f696d616765732f6c6f676f5f6f6e6c792e706e67|]
+Oct 31 22:37:16 - u87425281 open "/images/ipf_international_powerlifting_federation.png" flags READ mode 0666
+Oct 31 22:37:16 - u87425281 close "/images/ipf_international_powerlifting_federation.png" bytes read 12499 written 0
+Oct 31 22:37:16 - u87425281 [10.71.50.31|get|0|12499|0|0|0|2f696d616765732f6970665f696e7465726e6174696f6e616c5f706f7765726c696674696e675f66656465726174696f6e2e706e67|]
+Oct 31 22:37:16 - u87425281 open "/images/instagram_banner_grey_darker.png" flags READ mode 0666
+Oct 31 22:37:16 - u87425281 open "/images/instagram_banner_grey.png" flags READ mode 0666
+Oct 31 22:37:16 - u87425281 close "/images/instagram_banner_grey_darker.png" bytes read 252515 written 0
+Oct 31 22:37:16 - u87425281 [10.71.50.31|get|0|252515|0|0|0|2f696d616765732f696e7374616772616d5f62616e6e65725f677265795f6461726b65722e706e67|]
+Oct 31 22:37:16 - u87425281 open "/images/instagram_banner_333.png" flags READ mode 0666
+Oct 31 22:37:16 - u87425281 close "/images/instagram_banner_grey.png" bytes read 253251 written 0
+Oct 31 22:37:16 - u87425281 [10.71.50.31|get|0|253251|0|0|0|2f696d616765732f696e7374616772616d5f62616e6e65725f677265792e706e67|]
+Oct 31 22:37:16 - u87425281 close "/images/instagram_banner_333.png" bytes read 253678 written 0
+Oct 31 22:37:16 - u87425281 [10.71.50.31|get|0|253678|0|0|0|2f696d616765732f696e7374616772616d5f62616e6e65725f3333332e706e67|]
+Oct 31 22:37:16 - u87425281 open "/images/grayscale_to_colour.psd" flags READ mode 0666
+Oct 31 22:37:16 - u87425281 open "/images/instagram_banner.png" flags READ mode 0666
+Oct 31 22:37:17 - u87425281 close "/images/instagram_banner.png" bytes read 255915 written 0
+Oct 31 22:37:17 - u87425281 [10.71.50.31|get|1|255915|0|0|0|2f696d616765732f696e7374616772616d5f62616e6e65722e706e67|]
+Oct 31 22:37:17 - u87425281 open "/images/grayscale_to_colour.png" flags READ mode 0666
+Oct 31 22:37:18 - u87425281 close "/images/grayscale_to_colour.png" bytes read 1715450 written 0
+Oct 31 22:37:18 - u87425281 [10.71.50.31|get|1|1715450|0|0|0|2f696d616765732f677261797363616c655f746f5f636f6c6f75722e706e67|]
+Oct 31 22:37:18 - u87425281 open "/images/favicon1.ico" flags READ mode 0666
+Oct 31 22:37:18 - u87425281 close "/images/grayscale_to_colour.psd" bytes read 8975706 written 0
+Oct 31 22:37:18 - u87425281 [10.71.50.31|get|2|8975706|0|0|0|2f696d616765732f677261797363616c655f746f5f636f6c6f75722e707364|]
+Oct 31 22:37:18 - u87425281 close "/images/favicon1.ico" bytes read 1150 written 0
+Oct 31 22:37:18 - u87425281 [10.71.50.31|get|0|1150|0|0|0|2f696d616765732f66617669636f6e312e69636f|]
+Oct 31 22:37:18 - u87425281 open "/images/favicon.ico" flags READ mode 0666
+Oct 31 22:37:18 - u87425281 open "/images/epf_european_powerlifting_federation.png" flags READ mode 0666
+Oct 31 22:37:19 - u87425281 close "/images/favicon.ico" bytes read 1150 written 0
+Oct 31 22:37:19 - u87425281 [10.71.50.31|get|1|1150|0|0|0|2f696d616765732f66617669636f6e2e69636f|]
+Oct 31 22:37:19 - u87425281 close "/images/epf_european_powerlifting_federation.png" bytes read 11574 written 0
+Oct 31 22:37:19 - u87425281 [10.71.50.31|get|1|11574|0|0|0|2f696d616765732f6570665f6575726f7065616e5f706f7765726c696674696e675f66656465726174696f6e2e706e67|]
+Oct 31 22:37:19 - u87425281 open "/images/epa_EPA.jpg" flags READ mode 0666
+Oct 31 22:37:19 - u87425281 open "/images/BritishPowerlifting.png" flags READ mode 0666
+Oct 31 22:37:19 - u87425281 close "/images/epa_EPA.jpg" bytes read 343342 written 0
+Oct 31 22:37:19 - u87425281 [10.71.50.31|get|0|343342|0|0|0|2f696d616765732f6570615f4550412e6a7067|]
+Oct 31 22:37:19 - u87425281 open "/images/banner_smpl.png" flags READ mode 0666
+Oct 31 22:37:19 - u87425281 close "/images/BritishPowerlifting.png" bytes read 57790 written 0
+Oct 31 22:37:19 - u87425281 [10.71.50.31|get|0|57790|0|0|0|2f696d616765732f42726974697368506f7765726c696674696e672e706e67|]
+Oct 31 22:37:19 - u87425281 close "/images/banner_smpl.png" bytes read 119507 written 0
+Oct 31 22:37:19 - u87425281 [10.71.50.31|get|0|119507|0|0|0|2f696d616765732f62616e6e65725f736d706c2e706e67|]
+Oct 31 22:37:19 - u87425281 open "/images/BP-ENG-SM-SQ-LOGO.jpg" flags READ mode 0666
+Oct 31 22:37:19 - u87425281 open "/logs/access.log.44.1.gz" flags READ mode 0666
+Oct 31 22:37:19 - u87425281 close "/images/BP-ENG-SM-SQ-LOGO.jpg" bytes read 544916 written 0
+Oct 31 22:37:19 - u87425281 [10.71.50.31|get|0|544916|0|0|0|2f696d616765732f42502d454e472d534d2d53512d4c4f474f2e6a7067|]
+Oct 31 22:37:19 - u87425281 close "/logs/access.log.44.1.gz" bytes read 8663 written 0
+Oct 31 22:37:19 - u87425281 [10.71.50.31|get|0|8663|0|0|0|2f6c6f67732f6163636573732e6c6f672e34342e312e677a|]
+Oct 31 22:37:20 - u87425281 open "/logs/access.log.43.6.gz" flags READ mode 0666
+Oct 31 22:37:20 - u87425281 open "/logs/access.log.43.7.gz" flags READ mode 0666
+Oct 31 22:37:20 - u87425281 close "/logs/access.log.43.6.gz" bytes read 4602 written 0
+Oct 31 22:37:20 - u87425281 [10.71.50.31|get|0|4602|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e362e677a|]
+Oct 31 22:37:20 - u87425281 close "/logs/access.log.43.7.gz" bytes read 6999 written 0
+Oct 31 22:37:20 - u87425281 [10.71.50.31|get|0|6999|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e372e677a|]
+Oct 31 22:37:20 - u87425281 open "/logs/access.log.43.5.gz" flags READ mode 0666
+Oct 31 22:37:20 - u87425281 open "/logs/access.log.43.4.gz" flags READ mode 0666
+Oct 31 22:37:20 - u87425281 close "/logs/access.log.43.5.gz" bytes read 5698 written 0
+Oct 31 22:37:20 - u87425281 [10.71.50.31|get|0|5698|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e352e677a|]
+Oct 31 22:37:20 - u87425281 close "/logs/access.log.43.4.gz" bytes read 3602 written 0
+Oct 31 22:37:20 - u87425281 [10.71.50.31|get|0|3602|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e342e677a|]
+Oct 31 22:37:20 - u87425281 open "/logs/access.log.43.3.gz" flags READ mode 0666
+Oct 31 22:37:20 - u87425281 open "/logs/access.log.43.2.gz" flags READ mode 0666
+Oct 31 22:37:20 - u87425281 close "/logs/access.log.43.3.gz" bytes read 4579 written 0
+Oct 31 22:37:20 - u87425281 [10.71.50.31|get|0|4579|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e332e677a|]
+Oct 31 22:37:20 - u87425281 close "/logs/access.log.43.2.gz" bytes read 6800 written 0
+Oct 31 22:37:20 - u87425281 [10.71.50.31|get|0|6800|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e322e677a|]
+Oct 31 22:37:20 - u87425281 open "/logs/access.log.43.1.gz" flags READ mode 0666
+Oct 31 22:37:20 - u87425281 open "/logs/access.log.37.gz" flags READ mode 0666
+Oct 31 22:37:20 - u87425281 close "/logs/access.log.43.1.gz" bytes read 5774 written 0
+Oct 31 22:37:20 - u87425281 [10.71.50.31|get|0|5774|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e312e677a|]
+Oct 31 22:37:20 - u87425281 close "/logs/access.log.37.gz" bytes read 17530 written 0
+Oct 31 22:37:20 - u87425281 [10.71.50.31|get|0|17530|0|0|0|2f6c6f67732f6163636573732e6c6f672e33372e677a|]
+Oct 31 22:37:20 - u87425281 open "/logs/access.log.38.gz" flags READ mode 0666
+Oct 31 22:37:20 - u87425281 open "/logs/sftp.log" flags READ mode 0666
+Oct 31 22:37:21 - u87425281 close "/logs/access.log.38.gz" bytes read 19350 written 0
+Oct 31 22:37:21 - u87425281 [10.71.50.31|get|1|19350|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e677a|]
+Oct 31 22:37:21 - u87425281 close "/logs/sftp.log" bytes read 33530 written 0
+Oct 31 22:37:21 - u87425281 [10.71.50.31|get|1|33530|0|0|0|2f6c6f67732f736674702e6c6f67|]
+Oct 31 22:37:21 - u87425281 open "/logs/access.log.44.2" flags READ mode 0666
+Oct 31 22:37:21 - u87425281 open "/logs/access.log.42.gz" flags READ mode 0666
+Oct 31 22:37:21 - u87425281 close "/logs/access.log.44.2" bytes read 385916 written 0
+Oct 31 22:37:21 - u87425281 [10.71.50.31|get|0|385916|0|0|0|2f6c6f67732f6163636573732e6c6f672e34342e32|]
+Oct 31 22:37:21 - u87425281 close "/logs/access.log.42.gz" bytes read 58261 written 0
+Oct 31 22:37:21 - u87425281 [10.71.50.31|get|0|58261|0|0|0|2f6c6f67732f6163636573732e6c6f672e34322e677a|]
+Oct 31 22:37:21 - u87425281 open "/logs/access.log.41.gz" flags READ mode 0666
+Oct 31 22:37:21 - u87425281 open "/logs/sftp.log.42.gz" flags READ mode 0666
+Oct 31 22:37:21 - u87425281 close "/logs/access.log.41.gz" bytes read 41408 written 0
+Oct 31 22:37:21 - u87425281 [10.71.50.31|get|0|41408|0|0|0|2f6c6f67732f6163636573732e6c6f672e34312e677a|]
+Oct 31 22:37:21 - u87425281 close "/logs/sftp.log.42.gz" bytes read 696 written 0
+Oct 31 22:37:21 - u87425281 [10.71.50.31|get|0|696|0|0|0|2f6c6f67732f736674702e6c6f672e34322e677a|]
+Oct 31 22:37:21 - u87425281 open "/logs/access.log.40.gz" flags READ mode 0666
+Oct 31 22:37:21 - u87425281 open "/logs/sftp.log.41.gz" flags READ mode 0666
+Oct 31 22:37:21 - u87425281 close "/logs/access.log.40.gz" bytes read 16400 written 0
+Oct 31 22:37:21 - u87425281 close "/logs/sftp.log.41.gz" bytes read 727 written 0
+Oct 31 22:37:21 - u87425281 [10.71.50.31|get|0|727|0|0|0|2f6c6f67732f736674702e6c6f672e34312e677a|]
+Oct 31 22:37:21 - u87425281 [10.71.50.31|get|0|16400|0|0|0|2f6c6f67732f6163636573732e6c6f672e34302e677a|]
+Oct 31 22:37:21 - u87425281 open "/logs/access.log.39.gz" flags READ mode 0666
+Oct 31 22:37:21 - u87425281 open "/logs/access.log.36.gz" flags READ mode 0666
+Oct 31 22:37:21 - u87425281 close "/logs/access.log.39.gz" bytes read 17388 written 0
+Oct 31 22:37:21 - u87425281 [10.71.50.31|get|0|17388|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e677a|]
+Oct 31 22:37:21 - u87425281 close "/logs/access.log.36.gz" bytes read 12943 written 0
+Oct 31 22:37:21 - u87425281 [10.71.50.31|get|0|12943|0|0|0|2f6c6f67732f6163636573732e6c6f672e33362e677a|]
+Oct 31 22:37:22 - u87425281 open "/logs/last_traffic" flags READ mode 0666
+Oct 31 22:37:22 - u87425281 open "/logs/traffic.db" flags READ mode 0666
+Oct 31 22:37:22 - u87425281 close "/logs/last_traffic" bytes read 0 written 0
+Oct 31 22:37:22 - u87425281 [10.71.50.31|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Oct 31 22:37:22 - u87425281 close "/logs/traffic.db" bytes read 40960 written 0
+Oct 31 22:37:22 - u87425281 [10.71.50.31|get|0|40960|0|0|0|2f6c6f67732f747261666669632e6462|]
+Oct 31 22:37:22 - u87425281 open "/logs/info.py" flags READ mode 0666
+Oct 31 22:37:22 - u87425281 open "/logs/info.php5" flags READ mode 0666
+Oct 31 22:37:22 - u87425281 close "/logs/info.py" bytes read 6384 written 0
+Oct 31 22:37:22 - u87425281 [10.71.50.31|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Oct 31 22:37:22 - u87425281 close "/logs/info.php5" bytes read 21 written 0
+Oct 31 22:37:22 - u87425281 [10.71.50.31|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Oct 31 22:37:22 - u87425281 open "/logs/info.pl" flags READ mode 0666
+Oct 31 22:37:22 - u87425281 open "/logs/.htaccess" flags READ mode 0666
+Oct 31 22:37:22 - u87425281 close "/logs/info.pl" bytes read 4176 written 0
+Oct 31 22:37:22 - u87425281 [10.71.50.31|get|0|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Oct 31 22:37:22 - u87425281 close "/logs/.htaccess" bytes read 266 written 0
+Oct 31 22:37:22 - u87425281 [10.71.50.31|get|0|266|0|0|0|2f6c6f67732f2e6874616363657373|]
+Oct 31 22:37:22 - u87425281 open "/logs/traffic.html/10.html" flags READ mode 0666
+Oct 31 22:37:22 - u87425281 open "/logs/traffic.html/09.html" flags READ mode 0666
+Oct 31 22:37:22 - u87425281 close "/logs/traffic.html/10.html" bytes read 11871 written 0
+Oct 31 22:37:22 - u87425281 [10.71.50.31|get|0|11871|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Oct 31 22:37:22 - u87425281 open "/logs/traffic.html/08.html" flags READ mode 0666
+Oct 31 22:37:22 - u87425281 close "/logs/traffic.html/09.html" bytes read 11464 written 0
+Oct 31 22:37:22 - u87425281 [10.71.50.31|get|0|11464|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Oct 31 22:37:23 - u87425281 open "/logs/traffic.html/07.html" flags READ mode 0666
+Oct 31 22:37:23 - u87425281 close "/logs/traffic.html/08.html" bytes read 11745 written 0
+Oct 31 22:37:23 - u87425281 [10.71.50.31|get|1|11745|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Oct 31 22:37:23 - u87425281 open "/logs/traffic.html/06.html" flags READ mode 0666
+Oct 31 22:37:23 - u87425281 close "/logs/traffic.html/07.html" bytes read 11715 written 0
+Oct 31 22:37:23 - u87425281 [10.71.50.31|get|0|11715|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Oct 31 22:37:23 - u87425281 open "/logs/traffic.html/05.html" flags READ mode 0666
+Oct 31 22:37:23 - u87425281 close "/logs/traffic.html/06.html" bytes read 11380 written 0
+Oct 31 22:37:23 - u87425281 [10.71.50.31|get|0|11380|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Oct 31 22:37:23 - u87425281 open "/logs/traffic.html/04.html" flags READ mode 0666
+Oct 31 22:37:23 - u87425281 close "/logs/traffic.html/05.html" bytes read 11711 written 0
+Oct 31 22:37:23 - u87425281 [10.71.50.31|get|0|11711|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+Oct 31 22:37:23 - u87425281 open "/logs/traffic.html/03.html" flags READ mode 0666
+Oct 31 22:37:23 - u87425281 close "/logs/traffic.html/04.html" bytes read 11406 written 0
+Oct 31 22:37:23 - u87425281 [10.71.50.31|get|0|11406|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30342e68746d6c|]
+Oct 31 22:37:23 - u87425281 open "/logs/traffic.html/02.html" flags READ mode 0666
+Oct 31 22:37:23 - u87425281 close "/logs/traffic.html/03.html" bytes read 11679 written 0
+Oct 31 22:37:23 - u87425281 [10.71.50.31|get|0|11679|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30332e68746d6c|]
+Oct 31 22:37:23 - u87425281 open "/logs/traffic.html/01.html" flags READ mode 0666
+Oct 31 22:37:23 - u87425281 close "/logs/traffic.html/02.html" bytes read 10702 written 0
+Oct 31 22:37:23 - u87425281 [10.71.50.31|get|0|10702|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30322e68746d6c|]
+Oct 31 22:37:23 - u87425281 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Oct 31 22:37:23 - u87425281 sent status Permission denied
+Oct 31 22:37:23 - u87425281 close "/logs/traffic.html/01.html" bytes read 11715 written 0
+Oct 31 22:37:23 - u87425281 [10.71.50.31|get|0|11715|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30312e68746d6c|]
+Oct 31 22:37:23 - u87425281 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Oct 31 22:37:23 - u87425281 sent status Permission denied
+Oct 31 22:37:23 - u87425281 open "/logs/traffic.html/12.html" flags READ mode 0666
+Oct 31 22:37:24 - u87425281 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Oct 31 22:37:24 - u87425281 sent status Permission denied
+Oct 31 22:37:24 - u87425281 close "/logs/traffic.html/12.html" bytes read 10325 written 0
+Oct 31 22:37:24 - u87425281 [10.71.50.31|get|1|10325|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+Oct 31 22:37:24 - u87425281 open "/logs/traffic.html/index.html" flags READ mode 0666
+Oct 31 22:37:24 - u87425281 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Oct 31 22:37:24 - u87425281 close "/logs/traffic.html/index.html" bytes read 7557 written 0
+Oct 31 22:37:24 - u87425281 [10.71.50.31|get|0|7557|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Oct 31 22:37:24 - u87425281 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Oct 31 22:37:24 - u87425281 [10.71.50.31|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Oct 31 22:37:24 - u87425281 open "/logs/access.log.44.2" flags READ mode 0666
+Oct 31 22:37:24 - u87425281 open "/results/All Mids Masters 2017 Results.pdf" flags READ mode 0666
+Oct 31 22:37:24 - u87425281 close "/logs/access.log.44.2" bytes read 385916 written 0
+Oct 31 22:37:24 - u87425281 [10.71.50.31|get|0|385916|0|0|0|2f6c6f67732f6163636573732e6c6f672e34342e32|]
+Oct 31 22:37:24 - u87425281 close "/results/All Mids Masters 2017 Results.pdf" bytes read 381969 written 0
+Oct 31 22:37:24 - u87425281 [10.71.50.31|get|0|381969|0|0|0|2f726573756c74732f416c6c204d696473204d617374657273203230313720526573756c74732e706466|]
+Oct 31 22:37:24 - u87425281 open "/results/Bitesize 5 Results.pdf" flags READ mode 0666
+Oct 31 22:37:24 - u87425281 close "/results/Bitesize 5 Results.pdf" bytes read 80701 written 0
+Oct 31 22:37:24 - u87425281 [10.71.50.31|get|0|80701|0|0|0|2f726573756c74732f4269746573697a65203520526573756c74732e706466|]
+Oct 31 22:37:46 - u87425281 sent status No such file
+Oct 31 22:37:51 - u87425281 open "/events.html" flags READ mode 0666
+Oct 31 22:37:52 - u87425281 close "/events.html" bytes read 11918 written 0
+Oct 31 22:37:52 - u87425281 [10.71.50.31|get|1|11918|0|0|0|2f6576656e74732e68746d6c|]
+Oct 31 22:37:56 - u87425281 open "/main.css" flags READ mode 0666
+Oct 31 22:37:56 - u87425281 open "/index.html" flags READ mode 0666
+Oct 31 22:37:56 - u87425281 close "/index.html" bytes read 9859 written 0
+Oct 31 22:37:56 - u87425281 close "/main.css" bytes read 2450 written 0
+Oct 31 22:37:56 - u87425281 [10.71.50.31|get|0|9859|0|0|0|2f696e6465782e68746d6c|]
+Oct 31 22:37:56 - u87425281 [10.71.50.31|get|0|2450|0|0|0|2f6d61696e2e637373|]
+Oct 31 22:37:56 - u87425281 open "/records.html" flags READ mode 0666
+Oct 31 22:37:56 - u87425281 open "/results.html" flags READ mode 0666
+Oct 31 22:37:56 - u87425281 close "/records.html" bytes read 7474 written 0
+Oct 31 22:37:56 - u87425281 close "/results.html" bytes read 10621 written 0
+Oct 31 22:37:56 - u87425281 [10.71.50.31|get|0|10621|0|0|0|2f726573756c74732e68746d6c|]
+Oct 31 22:37:56 - u87425281 [10.71.50.31|get|0|7474|0|0|0|2f7265636f7264732e68746d6c|]
+Oct 31 22:37:56 - u87425281 open "/entry/Bitesize 3rd December Entry Form.docx" flags READ mode 0666
+Oct 31 22:37:56 - u87425281 open "/entry/Bitesize 16th December Entry Form.docx" flags READ mode 0666
+Oct 31 22:37:56 - u87425281 close "/entry/Bitesize 3rd December Entry Form.docx" bytes read 40644 written 0
+Oct 31 22:37:56 - u87425281 [10.71.50.31|get|0|40644|0|0|0|2f656e7472792f4269746573697a652033726420446563656d62657220456e74727920466f726d2e646f6378|]
+Oct 31 22:37:56 - u87425281 close "/entry/Bitesize 16th December Entry Form.docx" bytes read 40683 written 0
+Oct 31 22:37:56 - u87425281 [10.71.50.31|get|0|40683|0|0|0|2f656e7472792f4269746573697a65203136746820446563656d62657220456e74727920466f726d2e646f6378|]
+Oct 31 22:37:56 - u87425281 open "/entry/Bitesize October Entry Form.docx" flags READ mode 0666
+Oct 31 22:37:56 - u87425281 close "/entry/Bitesize October Entry Form.docx" bytes read 40664 written 0
+Oct 31 22:37:56 - u87425281 [10.71.50.31|get|0|40664|0|0|0|2f656e7472792f4269746573697a65204f63746f62657220456e74727920466f726d2e646f6378|]
+Oct 31 22:37:56 - u87425281 open "/font-awesome-4.7.0/HELP-US-OUT.txt" flags READ mode 0666
+Oct 31 22:37:57 - u87425281 open "/font-awesome-4.7.0/css/font-awesome.css" flags READ mode 0666
+Oct 31 22:37:57 - u87425281 close "/font-awesome-4.7.0/css/font-awesome.css" bytes read 39751 written 0
+Oct 31 22:37:57 - u87425281 [10.71.50.31|get|0|39751|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6373732f666f6e742d617765736f6d652e637373|]
+Oct 31 22:37:57 - u87425281 close "/font-awesome-4.7.0/HELP-US-OUT.txt" bytes read 330 written 0
+Oct 31 22:37:57 - u87425281 [10.71.50.31|get|1|330|0|0|0|2f666f6e742d617765736f6d652d342e372e302f48454c502d55532d4f55542e747874|]
+Oct 31 22:37:57 - u87425281 open "/font-awesome-4.7.0/css/font-awesome.min.css" flags READ mode 0666
+Oct 31 22:37:57 - u87425281 close "/font-awesome-4.7.0/css/font-awesome.min.css" bytes read 31004 written 0
+Oct 31 22:37:57 - u87425281 [10.71.50.31|get|0|31004|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Oct 31 22:37:57 - u87425281 open "/font-awesome-4.7.0/fonts/FontAwesome.otf" flags READ mode 0666
+Oct 31 22:37:57 - u87425281 open "/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" flags READ mode 0666
+Oct 31 22:37:57 - u87425281 close "/font-awesome-4.7.0/fonts/FontAwesome.otf" bytes read 134808 written 0
+Oct 31 22:37:57 - u87425281 [10.71.50.31|get|0|134808|0|0|0|2f666f6e742d617765736f6d652d342e372e302f666f6e74732f466f6e74417765736f6d652e6f7466|]
+Oct 31 22:37:57 - u87425281 close "/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" bytes read 77160 written 0
+Oct 31 22:37:57 - u87425281 open "/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" flags READ mode 0666
+Oct 31 22:37:57 - u87425281 [10.71.50.31|get|0|77160|0|0|0|2f666f6e742d617765736f6d652d342e372e302f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f666632|]
+Oct 31 22:37:57 - u87425281 close "/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" bytes read 98024 written 0
+Oct 31 22:37:57 - u87425281 [10.71.50.31|get|0|98024|0|0|0|2f666f6e742d617765736f6d652d342e372e302f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+Oct 31 22:37:57 - u87425281 open "/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" flags READ mode 0666
+Oct 31 22:37:58 - u87425281 open "/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" flags READ mode 0666
+Oct 31 22:37:58 - u87425281 close "/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" bytes read 165548 written 0
+Oct 31 22:37:58 - u87425281 [10.71.50.31|get|1|165548|0|0|0|2f666f6e742d617765736f6d652d342e372e302f666f6e74732f666f6e74617765736f6d652d776562666f6e742e747466|]
+Oct 31 22:37:58 - u87425281 open "/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" flags READ mode 0666
+Oct 31 22:37:58 - u87425281 close "/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" bytes read 447050 written 0
+Oct 31 22:37:58 - u87425281 [10.71.50.31|get|0|447050|0|0|0|2f666f6e742d617765736f6d652d342e372e302f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667|]
+Oct 31 22:37:58 - u87425281 close "/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" bytes read 165742 written 0
+Oct 31 22:37:58 - u87425281 [10.71.50.31|get|0|165742|0|0|0|2f666f6e742d617765736f6d652d342e372e302f666f6e74732f666f6e74617765736f6d652d776562666f6e742e656f74|]
+Oct 31 22:37:58 - u87425281 open "/font-awesome-4.7.0/less/variables.less" flags READ mode 0666
+Oct 31 22:37:58 - u87425281 open "/font-awesome-4.7.0/less/stacked.less" flags READ mode 0666
+Oct 31 22:37:58 - u87425281 close "/font-awesome-4.7.0/less/variables.less" bytes read 23363 written 0
+Oct 31 22:37:58 - u87425281 [10.71.50.31|get|0|23363|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f7661726961626c65732e6c657373|]
+Oct 31 22:37:58 - u87425281 close "/font-awesome-4.7.0/less/stacked.less" bytes read 496 written 0
+Oct 31 22:37:58 - u87425281 [10.71.50.31|get|0|496|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f737461636b65642e6c657373|]
+Oct 31 22:37:58 - u87425281 open "/font-awesome-4.7.0/less/screen-reader.less" flags READ mode 0666
+Oct 31 22:37:58 - u87425281 open "/font-awesome-4.7.0/less/rotated-flipped.less" flags READ mode 0666
+Oct 31 22:37:58 - u87425281 close "/font-awesome-4.7.0/less/screen-reader.less" bytes read 123 written 0
+Oct 31 22:37:58 - u87425281 [10.71.50.31|get|0|123|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f73637265656e2d7265616465722e6c657373|]
+Oct 31 22:37:58 - u87425281 close "/font-awesome-4.7.0/less/rotated-flipped.less" bytes read 642 written 0
+Oct 31 22:37:58 - u87425281 [10.71.50.31|get|0|642|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f726f74617465642d666c69707065642e6c657373|]
+Oct 31 22:37:58 - u87425281 open "/font-awesome-4.7.0/less/path.less" flags READ mode 0666
+Oct 31 22:37:58 - u87425281 open "/font-awesome-4.7.0/less/mixins.less" flags READ mode 0666
+Oct 31 22:37:58 - u87425281 close "/font-awesome-4.7.0/less/path.less" bytes read 786 written 0
+Oct 31 22:37:58 - u87425281 [10.71.50.31|get|0|786|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f706174682e6c657373|]
+Oct 31 22:37:59 - u87425281 close "/font-awesome-4.7.0/less/mixins.less" bytes read 1663 written 0
+Oct 31 22:37:59 - u87425281 [10.71.50.31|get|1|1663|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f6d6978696e732e6c657373|]
+Oct 31 22:37:59 - u87425281 open "/font-awesome-4.7.0/less/list.less" flags READ mode 0666
+Oct 31 22:37:59 - u87425281 open "/font-awesome-4.7.0/less/larger.less" flags READ mode 0666
+Oct 31 22:37:59 - u87425281 close "/font-awesome-4.7.0/less/list.less" bytes read 396 written 0
+Oct 31 22:37:59 - u87425281 [10.71.50.31|get|0|396|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f6c6973742e6c657373|]
+Oct 31 22:37:59 - u87425281 close "/font-awesome-4.7.0/less/larger.less" bytes read 383 written 0
+Oct 31 22:37:59 - u87425281 [10.71.50.31|get|0|383|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f6c61726765722e6c657373|]
+Oct 31 22:37:59 - u87425281 open "/font-awesome-4.7.0/less/icons.less" flags READ mode 0666
+Oct 31 22:37:59 - u87425281 open "/font-awesome-4.7.0/less/font-awesome.less" flags READ mode 0666
+Oct 31 22:37:59 - u87425281 close "/font-awesome-4.7.0/less/icons.less" bytes read 50501 written 0
+Oct 31 22:37:59 - u87425281 [10.71.50.31|get|0|50501|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f69636f6e732e6c657373|]
+Oct 31 22:37:59 - u87425281 close "/font-awesome-4.7.0/less/font-awesome.less" bytes read 513 written 0
+Oct 31 22:37:59 - u87425281 [10.71.50.31|get|0|513|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f666f6e742d617765736f6d652e6c657373|]
+Oct 31 22:37:59 - u87425281 open "/font-awesome-4.7.0/less/fixed-width.less" flags READ mode 0666
+Oct 31 22:37:59 - u87425281 open "/font-awesome-4.7.0/less/core.less" flags READ mode 0666
+Oct 31 22:37:59 - u87425281 close "/font-awesome-4.7.0/less/fixed-width.less" bytes read 125 written 0
+Oct 31 22:37:59 - u87425281 [10.71.50.31|get|0|125|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f66697865642d77696474682e6c657373|]
+Oct 31 22:37:59 - u87425281 close "/font-awesome-4.7.0/less/core.less" bytes read 464 written 0
+Oct 31 22:37:59 - u87425281 [10.71.50.31|get|0|464|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f636f72652e6c657373|]
+Oct 31 22:37:59 - u87425281 open "/font-awesome-4.7.0/less/animated.less" flags READ mode 0666
+Oct 31 22:37:59 - u87425281 open "/font-awesome-4.7.0/less/bordered-pulled.less" flags READ mode 0666
+Oct 31 22:37:59 - u87425281 close "/font-awesome-4.7.0/less/animated.less" bytes read 747 written 0
+Oct 31 22:37:59 - u87425281 [10.71.50.31|get|0|747|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f616e696d617465642e6c657373|]
+Oct 31 22:37:59 - u87425281 close "/font-awesome-4.7.0/less/bordered-pulled.less" bytes read 610 written 0
+Oct 31 22:37:59 - u87425281 [10.71.50.31|get|0|610|0|0|0|2f666f6e742d617765736f6d652d342e372e302f6c6573732f626f7264657265642d70756c6c65642e6c657373|]
+Oct 31 22:37:59 - u87425281 open "/font-awesome-4.7.0/scss/_variables.scss" flags READ mode 0666
+Oct 31 22:38:00 - u87425281 open "/font-awesome-4.7.0/scss/_stacked.scss" flags READ mode 0666
+Oct 31 22:38:00 - u87425281 close "/font-awesome-4.7.0/scss/_variables.scss" bytes read 23444 written 0
+Oct 31 22:38:00 - u87425281 [10.71.50.31|get|1|23444|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f7661726961626c65732e73637373|]
+Oct 31 22:38:00 - u87425281 close "/font-awesome-4.7.0/scss/_stacked.scss" bytes read 502 written 0
+Oct 31 22:38:00 - u87425281 [10.71.50.31|get|0|502|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f737461636b65642e73637373|]
+Oct 31 22:38:00 - u87425281 open "/font-awesome-4.7.0/scss/_screen-reader.scss" flags READ mode 0666
+Oct 31 22:38:00 - u87425281 open "/font-awesome-4.7.0/scss/_rotated-flipped.scss" flags READ mode 0666
+Oct 31 22:38:00 - u87425281 close "/font-awesome-4.7.0/scss/_screen-reader.scss" bytes read 139 written 0
+Oct 31 22:38:00 - u87425281 [10.71.50.31|get|0|139|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f73637265656e2d7265616465722e73637373|]
+Oct 31 22:38:00 - u87425281 close "/font-awesome-4.7.0/scss/_rotated-flipped.scss" bytes read 692 written 0
+Oct 31 22:38:00 - u87425281 [10.71.50.31|get|0|692|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f726f74617465642d666c69707065642e73637373|]
+Oct 31 22:38:00 - u87425281 open "/font-awesome-4.7.0/scss/_path.scss" flags READ mode 0666
+Oct 31 22:38:00 - u87425281 open "/font-awesome-4.7.0/scss/_mixins.scss" flags READ mode 0666
+Oct 31 22:38:00 - u87425281 close "/font-awesome-4.7.0/scss/_path.scss" bytes read 798 written 0
+Oct 31 22:38:00 - u87425281 [10.71.50.31|get|0|798|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f706174682e73637373|]
+Oct 31 22:38:00 - u87425281 close "/font-awesome-4.7.0/scss/_mixins.scss" bytes read 1697 written 0
+Oct 31 22:38:00 - u87425281 [10.71.50.31|get|0|1697|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f6d6978696e732e73637373|]
+Oct 31 22:38:00 - u87425281 open "/font-awesome-4.7.0/scss/_list.scss" flags READ mode 0666
+Oct 31 22:38:00 - u87425281 open "/font-awesome-4.7.0/scss/_larger.scss" flags READ mode 0666
+Oct 31 22:38:00 - u87425281 close "/font-awesome-4.7.0/scss/_list.scss" bytes read 397 written 0
+Oct 31 22:38:00 - u87425281 [10.71.50.31|get|0|397|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f6c6973742e73637373|]
+Oct 31 22:38:00 - u87425281 close "/font-awesome-4.7.0/scss/_larger.scss" bytes read 388 written 0
+Oct 31 22:38:00 - u87425281 [10.71.50.31|get|0|388|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f6c61726765722e73637373|]
+Oct 31 22:38:00 - u87425281 open "/font-awesome-4.7.0/scss/_icons.scss" flags READ mode 0666
+Oct 31 22:38:00 - u87425281 open "/font-awesome-4.7.0/scss/_fixed-width.scss" flags READ mode 0666
+Oct 31 22:38:00 - u87425281 close "/font-awesome-4.7.0/scss/_icons.scss" bytes read 51287 written 0
+Oct 31 22:38:00 - u87425281 [10.71.50.31|get|0|51287|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f69636f6e732e73637373|]
+Oct 31 22:38:00 - u87425281 close "/font-awesome-4.7.0/scss/_fixed-width.scss" bytes read 126 written 0
+Oct 31 22:38:00 - u87425281 [10.71.50.31|get|0|126|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f66697865642d77696474682e73637373|]
+Oct 31 22:38:00 - u87425281 open "/font-awesome-4.7.0/scss/_core.scss" flags READ mode 0666
+Oct 31 22:38:01 - u87425281 open "/font-awesome-4.7.0/scss/_bordered-pulled.scss" flags READ mode 0666
+Oct 31 22:38:01 - u87425281 close "/font-awesome-4.7.0/scss/_core.scss" bytes read 471 written 0
+Oct 31 22:38:01 - u87425281 [10.71.50.31|get|1|471|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f636f72652e73637373|]
+Oct 31 22:38:01 - u87425281 close "/font-awesome-4.7.0/scss/_bordered-pulled.scss" bytes read 617 written 0
+Oct 31 22:38:01 - u87425281 [10.71.50.31|get|0|617|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f626f7264657265642d70756c6c65642e73637373|]
+Oct 31 22:38:01 - u87425281 open "/font-awesome-4.7.0/scss/_animated.scss" flags READ mode 0666
+Oct 31 22:38:01 - u87425281 open "/font-awesome-4.7.0/scss/font-awesome.scss" flags READ mode 0666
+Oct 31 22:38:01 - u87425281 close "/font-awesome-4.7.0/scss/_animated.scss" bytes read 749 written 0
+Oct 31 22:38:01 - u87425281 [10.71.50.31|get|0|749|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f5f616e696d617465642e73637373|]
+Oct 31 22:38:01 - u87425281 close "/font-awesome-4.7.0/scss/font-awesome.scss" bytes read 448 written 0
+Oct 31 22:38:01 - u87425281 [10.71.50.31|get|0|448|0|0|0|2f666f6e742d617765736f6d652d342e372e302f736373732f666f6e742d617765736f6d652e73637373|]
+Oct 31 22:38:01 - u87425281 open "/images/smpl_logo_right3.jpg" flags READ mode 0666
+Oct 31 22:38:01 - u87425281 open "/images/smpl_logo_right2.jpg" flags READ mode 0666
+Oct 31 22:38:01 - u87425281 close "/images/smpl_logo_right3.jpg" bytes read 157644 written 0
+Oct 31 22:38:01 - u87425281 [10.71.50.31|get|0|157644|0|0|0|2f696d616765732f736d706c5f6c6f676f5f7269676874332e6a7067|]
+Oct 31 22:38:01 - u87425281 close "/images/smpl_logo_right2.jpg" bytes read 152322 written 0
+Oct 31 22:38:01 - u87425281 [10.71.50.31|get|0|152322|0|0|0|2f696d616765732f736d706c5f6c6f676f5f7269676874322e6a7067|]
+Oct 31 22:38:01 - u87425281 open "/images/smpl_logo_right.jpg" flags READ mode 0666
+Oct 31 22:38:01 - u87425281 open "/images/smpl_logo_left3.jpg" flags READ mode 0666
+Oct 31 22:38:01 - u87425281 close "/images/smpl_logo_right.jpg" bytes read 140060 written 0
+Oct 31 22:38:01 - u87425281 [10.71.50.31|get|0|140060|0|0|0|2f696d616765732f736d706c5f6c6f676f5f72696768742e6a7067|]
+Oct 31 22:38:01 - u87425281 close "/images/smpl_logo_left3.jpg" bytes read 141909 written 0
+Oct 31 22:38:01 - u87425281 [10.71.50.31|get|0|141909|0|0|0|2f696d616765732f736d706c5f6c6f676f5f6c656674332e6a7067|]
+Oct 31 22:38:01 - u87425281 open "/images/smpl_logo_left2.jpg" flags READ mode 0666
+Oct 31 22:38:01 - u87425281 open "/images/smpl_logo_left.jpg" flags READ mode 0666
+Oct 31 22:38:02 - u87425281 close "/images/smpl_logo_left2.jpg" bytes read 153621 written 0
+Oct 31 22:38:02 - u87425281 [10.71.50.31|get|1|153621|0|0|0|2f696d616765732f736d706c5f6c6f676f5f6c656674322e6a7067|]
+Oct 31 22:38:02 - u87425281 close "/images/smpl_logo_left.jpg" bytes read 288890 written 0
+Oct 31 22:38:02 - u87425281 [10.71.50.31|get|1|288890|0|0|0|2f696d616765732f736d706c5f6c6f676f5f6c6566742e6a7067|]
+Oct 31 22:38:02 - u87425281 open "/images/smpl_circle_333.png" flags READ mode 0666
+Oct 31 22:38:02 - u87425281 open "/images/smpl_circle.png" flags READ mode 0666
+Oct 31 22:38:02 - u87425281 close "/images/smpl_circle_333.png" bytes read 74758 written 0
+Oct 31 22:38:02 - u87425281 [10.71.50.31|get|0|74758|0|0|0|2f696d616765732f736d706c5f636972636c655f3333332e706e67|]
+Oct 31 22:38:02 - u87425281 close "/images/smpl_circle.png" bytes read 76649 written 0
+Oct 31 22:38:02 - u87425281 [10.71.50.31|get|0|76649|0|0|0|2f696d616765732f736d706c5f636972636c652e706e67|]
+Oct 31 22:38:02 - u87425281 open "/images/smpa_right.png" flags READ mode 0666
+Oct 31 22:38:02 - u87425281 open "/images/smpa_left.png" flags READ mode 0666
+Oct 31 22:38:02 - u87425281 close "/images/smpa_right.png" bytes read 151265 written 0
+Oct 31 22:38:02 - u87425281 [10.71.50.31|get|0|151265|0|0|0|2f696d616765732f736d70615f72696768742e706e67|]
+Oct 31 22:38:02 - u87425281 close "/images/smpa_left.png" bytes read 165725 written 0
+Oct 31 22:38:02 - u87425281 [10.71.50.31|get|0|165725|0|0|0|2f696d616765732f736d70615f6c6566742e706e67|]
+Oct 31 22:38:02 - u87425281 open "/images/newlogo.psd" flags READ mode 0666
+Oct 31 22:38:02 - u87425281 open "/images/newcirlcelogo_2_grey_darker.png" flags READ mode 0666
+Oct 31 22:38:02 - u87425281 close "/images/newcirlcelogo_2_grey_darker.png" bytes read 74634 written 0
+Oct 31 22:38:02 - u87425281 [10.71.50.31|get|0|74634|0|0|0|2f696d616765732f6e65776369726c63656c6f676f5f325f677265795f6461726b65722e706e67|]
+Oct 31 22:38:02 - u87425281 close "/images/newlogo.psd" bytes read 1178287 written 0
+Oct 31 22:38:02 - u87425281 [10.71.50.31|get|0|1178287|0|0|0|2f696d616765732f6e65776c6f676f2e707364|]
+Oct 31 22:38:02 - u87425281 open "/images/newcirlcelogo_2_grey.psd" flags READ mode 0666
+Oct 31 22:38:03 - u87425281 open "/images/newcirlcelogo_2_grey.png" flags READ mode 0666
+Oct 31 22:38:03 - u87425281 close "/images/newcirlcelogo_2_grey.psd" bytes read 1197630 written 0
+Oct 31 22:38:03 - u87425281 [10.71.50.31|get|1|1197630|0|0|0|2f696d616765732f6e65776369726c63656c6f676f5f325f677265792e707364|]
+Oct 31 22:38:03 - u87425281 open "/images/newcirlcelogo_2.psd" flags READ mode 0666
+Oct 31 22:38:03 - u87425281 close "/images/newcirlcelogo_2_grey.png" bytes read 75862 written 0
+Oct 31 22:38:03 - u87425281 [10.71.50.31|get|0|75862|0|0|0|2f696d616765732f6e65776369726c63656c6f676f5f325f677265792e706e67|]
+Oct 31 22:38:03 - u87425281 close "/images/newcirlcelogo_2.psd" bytes read 1201879 written 0
+Oct 31 22:38:03 - u87425281 [10.71.50.31|get|0|1201879|0|0|0|2f696d616765732f6e65776369726c63656c6f676f5f322e707364|]
+Oct 31 22:38:03 - u87425281 open "/images/newcirlcelogo.psd" flags READ mode 0666
+Oct 31 22:38:04 - u87425281 open "/images/newcirlcelogo_2.png" flags READ mode 0666
+Oct 31 22:38:04 - u87425281 close "/images/newcirlcelogo.psd" bytes read 1352525 written 0
+Oct 31 22:38:04 - u87425281 [10.71.50.31|get|1|1352525|0|0|0|2f696d616765732f6e65776369726c63656c6f676f2e707364|]
+Oct 31 22:38:04 - u87425281 close "/images/newcirlcelogo_2.png" bytes read 71036 written 0
+Oct 31 22:38:04 - u87425281 [10.71.50.31|get|0|71036|0|0|0|2f696d616765732f6e65776369726c63656c6f676f5f322e706e67|]
+Oct 31 22:38:04 - u87425281 open "/images/logo_only.psd" flags READ mode 0666
+Oct 31 22:38:04 - u87425281 open "/images/logo_only.png" flags READ mode 0666
+Oct 31 22:38:04 - u87425281 close "/images/logo_only.psd" bytes read 247536 written 0
+Oct 31 22:38:04 - u87425281 [10.71.50.31|get|0|247536|0|0|0|2f696d616765732f6c6f676f5f6f6e6c792e707364|]
+Oct 31 22:38:04 - u87425281 close "/images/logo_only.png" bytes read 41334 written 0
+Oct 31 22:38:04 - u87425281 [10.71.50.31|get|0|41334|0|0|0|2f696d616765732f6c6f676f5f6f6e6c792e706e67|]
+Oct 31 22:38:04 - u87425281 open "/images/ipf_international_powerlifting_federation.png" flags READ mode 0666
+Oct 31 22:38:04 - u87425281 open "/images/instagram_banner_grey_darker.png" flags READ mode 0666
+Oct 31 22:38:04 - u87425281 close "/images/ipf_international_powerlifting_federation.png" bytes read 12499 written 0
+Oct 31 22:38:04 - u87425281 [10.71.50.31|get|0|12499|0|0|0|2f696d616765732f6970665f696e7465726e6174696f6e616c5f706f7765726c696674696e675f66656465726174696f6e2e706e67|]
+Oct 31 22:38:04 - u87425281 close "/images/instagram_banner_grey_darker.png" bytes read 252515 written 0
+Oct 31 22:38:04 - u87425281 [10.71.50.31|get|0|252515|0|0|0|2f696d616765732f696e7374616772616d5f62616e6e65725f677265795f6461726b65722e706e67|]
+Oct 31 22:38:04 - u87425281 open "/images/instagram_banner_grey.png" flags READ mode 0666
+Oct 31 22:38:04 - u87425281 open "/images/instagram_banner_333.png" flags READ mode 0666
+Oct 31 22:38:04 - u87425281 close "/images/instagram_banner_grey.png" bytes read 253251 written 0
+Oct 31 22:38:04 - u87425281 [10.71.50.31|get|0|253251|0|0|0|2f696d616765732f696e7374616772616d5f62616e6e65725f677265792e706e67|]
+Oct 31 22:38:04 - u87425281 close "/images/instagram_banner_333.png" bytes read 253678 written 0
+Oct 31 22:38:04 - u87425281 [10.71.50.31|get|0|253678|0|0|0|2f696d616765732f696e7374616772616d5f62616e6e65725f3333332e706e67|]
+Oct 31 22:38:04 - u87425281 open "/images/instagram_banner.png" flags READ mode 0666
+Oct 31 22:38:04 - u87425281 close "/images/instagram_banner.png" bytes read 255915 written 0
+Oct 31 22:38:04 - u87425281 open "/images/grayscale_to_colour.psd" flags READ mode 0666
+Oct 31 22:38:04 - u87425281 [10.71.50.31|get|0|255915|0|0|0|2f696d616765732f696e7374616772616d5f62616e6e65722e706e67|]
+Oct 31 22:38:05 - u87425281 open "/images/grayscale_to_colour.png" flags READ mode 0666
+Oct 31 22:38:07 - u87425281 close "/images/grayscale_to_colour.psd" bytes read 8975706 written 0
+Oct 31 22:38:07 - u87425281 [10.71.50.31|get|3|8975706|0|0|0|2f696d616765732f677261797363616c655f746f5f636f6c6f75722e707364|]
+Oct 31 22:38:07 - u87425281 close "/images/grayscale_to_colour.png" bytes read 1715450 written 0
+Oct 31 22:38:07 - u87425281 [10.71.50.31|get|2|1715450|0|0|0|2f696d616765732f677261797363616c655f746f5f636f6c6f75722e706e67|]
+Oct 31 22:38:07 - u87425281 open "/images/favicon1.ico" flags READ mode 0666
+Oct 31 22:38:07 - u87425281 open "/images/favicon.ico" flags READ mode 0666
+Oct 31 22:38:07 - u87425281 close "/images/favicon1.ico" bytes read 1150 written 0
+Oct 31 22:38:07 - u87425281 [10.71.50.31|get|0|1150|0|0|0|2f696d616765732f66617669636f6e312e69636f|]
+Oct 31 22:38:08 - u87425281 close "/images/favicon.ico" bytes read 1150 written 0
+Oct 31 22:38:08 - u87425281 [10.71.50.31|get|1|1150|0|0|0|2f696d616765732f66617669636f6e2e69636f|]
+Oct 31 22:38:08 - u87425281 open "/images/epf_european_powerlifting_federation.png" flags READ mode 0666
+Oct 31 22:38:08 - u87425281 open "/images/epa_EPA.jpg" flags READ mode 0666
+Oct 31 22:38:08 - u87425281 close "/images/epf_european_powerlifting_federation.png" bytes read 11574 written 0
+Oct 31 22:38:08 - u87425281 [10.71.50.31|get|0|11574|0|0|0|2f696d616765732f6570665f6575726f7065616e5f706f7765726c696674696e675f66656465726174696f6e2e706e67|]
+Oct 31 22:38:08 - u87425281 open "/images/BritishPowerlifting.png" flags READ mode 0666
+Oct 31 22:38:08 - u87425281 close "/images/epa_EPA.jpg" bytes read 343342 written 0
+Oct 31 22:38:08 - u87425281 [10.71.50.31|get|0|343342|0|0|0|2f696d616765732f6570615f4550412e6a7067|]
+Oct 31 22:38:08 - u87425281 close "/images/BritishPowerlifting.png" bytes read 57790 written 0
+Oct 31 22:38:08 - u87425281 [10.71.50.31|get|0|57790|0|0|0|2f696d616765732f42726974697368506f7765726c696674696e672e706e67|]
+Oct 31 22:38:08 - u87425281 open "/images/banner_smpl.png" flags READ mode 0666
+Oct 31 22:38:08 - u87425281 open "/images/BP-ENG-SM-SQ-LOGO.jpg" flags READ mode 0666
+Oct 31 22:38:08 - u87425281 close "/images/banner_smpl.png" bytes read 119507 written 0
+Oct 31 22:38:08 - u87425281 [10.71.50.31|get|0|119507|0|0|0|2f696d616765732f62616e6e65725f736d706c2e706e67|]
+Oct 31 22:38:08 - u87425281 close "/images/BP-ENG-SM-SQ-LOGO.jpg" bytes read 544916 written 0
+Oct 31 22:38:08 - u87425281 [10.71.50.31|get|0|544916|0|0|0|2f696d616765732f42502d454e472d534d2d53512d4c4f474f2e6a7067|]
+Oct 31 22:38:08 - u87425281 open "/logs/access.log.44.1.gz" flags READ mode 0666
+Oct 31 22:38:08 - u87425281 close "/logs/access.log.44.1.gz" bytes read 8663 written 0
+Oct 31 22:38:08 - u87425281 [10.71.50.31|get|0|8663|0|0|0|2f6c6f67732f6163636573732e6c6f672e34342e312e677a|]
+Oct 31 22:38:09 - u87425281 open "/logs/access.log.43.7.gz" flags READ mode 0666
+Oct 31 22:38:09 - u87425281 open "/logs/access.log.43.6.gz" flags READ mode 0666
+Oct 31 22:38:09 - u87425281 close "/logs/access.log.43.7.gz" bytes read 6999 written 0
+Oct 31 22:38:09 - u87425281 [10.71.50.31|get|0|6999|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e372e677a|]
+Oct 31 22:38:09 - u87425281 close "/logs/access.log.43.6.gz" bytes read 4602 written 0
+Oct 31 22:38:09 - u87425281 [10.71.50.31|get|0|4602|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e362e677a|]
+Oct 31 22:38:09 - u87425281 open "/logs/access.log.43.5.gz" flags READ mode 0666
+Oct 31 22:38:09 - u87425281 open "/logs/access.log.43.4.gz" flags READ mode 0666
+Oct 31 22:38:09 - u87425281 close "/logs/access.log.43.4.gz" bytes read 3602 written 0
+Oct 31 22:38:09 - u87425281 close "/logs/access.log.43.5.gz" bytes read 5698 written 0
+Oct 31 22:38:09 - u87425281 [10.71.50.31|get|0|5698|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e352e677a|]
+Oct 31 22:38:09 - u87425281 [10.71.50.31|get|0|3602|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e342e677a|]
+Oct 31 22:38:09 - u87425281 open "/logs/access.log.43.3.gz" flags READ mode 0666
+Oct 31 22:38:09 - u87425281 open "/logs/access.log.43.2.gz" flags READ mode 0666
+Oct 31 22:38:09 - u87425281 close "/logs/access.log.43.3.gz" bytes read 4579 written 0
+Oct 31 22:38:09 - u87425281 [10.71.50.31|get|0|4579|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e332e677a|]
+Oct 31 22:38:09 - u87425281 close "/logs/access.log.43.2.gz" bytes read 6800 written 0
+Oct 31 22:38:09 - u87425281 [10.71.50.31|get|0|6800|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e322e677a|]
+Oct 31 22:38:09 - u87425281 open "/logs/access.log.43.1.gz" flags READ mode 0666
+Oct 31 22:38:09 - u87425281 open "/logs/access.log.37.gz" flags READ mode 0666
+Oct 31 22:38:09 - u87425281 close "/logs/access.log.43.1.gz" bytes read 5774 written 0
+Oct 31 22:38:09 - u87425281 [10.71.50.31|get|0|5774|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e312e677a|]
+Oct 31 22:38:09 - u87425281 close "/logs/access.log.37.gz" bytes read 17530 written 0
+Oct 31 22:38:09 - u87425281 [10.71.50.31|get|0|17530|0|0|0|2f6c6f67732f6163636573732e6c6f672e33372e677a|]
+Oct 31 22:38:09 - u87425281 open "/logs/access.log.38.gz" flags READ mode 0666
+Oct 31 22:38:09 - u87425281 open "/logs/sftp.log" flags READ mode 0666
